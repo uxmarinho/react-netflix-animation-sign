@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  React Project with Animation between Routes.</br>
+  <strong>React Project with Animation between Routes.</strong></br>
   Idea here was to start an animation between routes with React only without having to change the settings of the react-router-dom or use third-party libraries.
 </p>
 
