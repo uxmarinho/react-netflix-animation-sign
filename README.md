@@ -17,4 +17,4 @@ yarn start
 
 ## License
 
-MIT License © [UXMARINHO](https://github.com/uxmarinho)
+MIT License © [uxmarinho](https://github.com/uxmarinho)
