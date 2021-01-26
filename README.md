@@ -6,3 +6,9 @@
   React Project with Animation between Routes.</br>
   Idea here was to start an animation between routes with React only without having to change the settings of the react-router-dom or use third-party libraries.
 </p>
+
+## Use
+// Install
+yarn
+// Start
+yarn start
