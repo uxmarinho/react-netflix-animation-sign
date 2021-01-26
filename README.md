@@ -14,3 +14,7 @@ yarn
 // Start
 yarn start
 ```
+
+## License
+
+MIT License © [UXMARINHO](https://github.com/uxmarinho)
